@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GutoArruda123-git/GutoArruda123-git/main/img/header.png" alt="Banner - Carlos Augusto" />
-</p>
-
-
 # 👋 Olá, eu sou o Carlos Augusto
 
 Sou desenvolvedor focado em **automação**, **integrações** e **back-end**, usando:
@@ -67,7 +62,7 @@ API Full Stack de WhatsApp com:
 
 ---
 
-### 🔹 [Sistema de Agendamento para Salão (n8n)](https://github.com/GutoArruda123-git/sistema-agendamento-salao-n8n)
+### 🔹 [Sistema de Agendamento para Salão](https://github.com/GutoArruda123-git/sistema-agendamento-salao-n8n)
 Sistema de agendamento automatizado via WhatsApp:
 - Orquestrado em **n8n**
 - Persistência em **PostgreSQL**
@@ -105,7 +100,8 @@ Sistema de agendamento automatizado via WhatsApp:
 ## 📬 Como entrar em contato
 
 - **GitHub:** [@GutoArruda123-git](https://github.com/GutoArruda123-git)
-- **Email** – carlosaugustoficial15@gmail.com
+- **Email:** [carlosaugustoficial15@gmail.com](mailto:carlosaugustoficial15@gmail.com)
+
 ---
 
 ⭐ **Se curtiu meus projetos, deixa uma estrela nos repositórios!**
