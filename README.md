@@ -1,8 +1,7 @@
-<!-- BANNER (opcional, vamos configurar depois) -->
 <p align="center">
-  <!-- Se tiver um banner, troque a URL abaixo -->
-  <!-- <img src="https://raw.githubusercontent.com/GutoArruda123-git/GutoArruda123-git/main/img/header.png" alt="Banner - Carlos Augusto" /> -->
+  <img src="https://raw.githubusercontent.com/GutoArruda123-git/GutoArruda123-git/main/img/header.png" alt="Banner - Carlos Augusto" />
 </p>
+
 
 # 👋 Olá, eu sou o Carlos Augusto
 
