@@ -1,7 +1,13 @@
+<!-- BANNER (opcional, vamos configurar depois) -->
+<p align="center">
+  <!-- Se tiver um banner, troque a URL abaixo -->
+  <!-- <img src="https://raw.githubusercontent.com/GutoArruda123-git/GutoArruda123-git/main/img/header.png" alt="Banner - Carlos Augusto" /> -->
+</p>
+
 # 👋 Olá, eu sou o Carlos Augusto
 
 Sou desenvolvedor focado em **automação**, **integrações** e **back-end**, usando:
-- **Node.js**, **TypeScript**, **Python** e **C**
+- **Node.js**, **TypeScript**, **JavaScript**, **Python** e **C**
 - **n8n** para orquestração de fluxos
 - **PostgreSQL** para persistência de dados
 - **Baileys** e WhatsApp para construir soluções reais de atendimento e agendamento
@@ -22,10 +28,11 @@ Atualmente estou montando uma base sólida de projetos práticos voltados para:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-### Back-end & Frameworks
+### Back-end & Front-end
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -47,7 +54,7 @@ Atualmente estou montando uma base sólida de projetos práticos voltados para:
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos em Destaque
 
 ### 🔹 [Axon WhatsApp API](https://github.com/GutoArruda123-git/axon-whatsapp-api)
 API Full Stack de WhatsApp com:
@@ -57,11 +64,11 @@ API Full Stack de WhatsApp com:
 - Interface em React para gerenciar sessões via QR Code
 - Integração via webhooks (ideal para n8n e automações)
 
-**Tecnologias:** `Node.js` `TypeScript` `React` `Baileys` `Express` `PostgreSQL`
+**Tecnologias:** `Node.js` `TypeScript` `React` `Baileys` `Express` `PostgreSQL` `n8n`
 
 ---
 
-### 🔹 [Sistema de Agendamento para Salão](https://github.com/GutoArruda123-git/sistema-agendamento-salao)
+### 🔹 [Sistema de Agendamento para Salão (n8n)](https://github.com/GutoArruda123-git/sistema-agendamento-salao-n8n)
 Sistema de agendamento automatizado via WhatsApp:
 - Orquestrado em **n8n**
 - Persistência em **PostgreSQL**
@@ -70,7 +77,6 @@ Sistema de agendamento automatizado via WhatsApp:
   - Criação, atualização e cancelamento de agendamentos
   - Lembretes automáticos
   - Coleta de feedback
-- Pronto para integrar com a API de WhatsApp
 
 **Tecnologias:** `n8n` `PostgreSQL` `OpenAI` `WhatsApp` `Node.js`
 
@@ -80,25 +86,28 @@ Sistema de agendamento automatizado via WhatsApp:
 
 - Boas práticas de arquitetura para APIs Node.js  
 - Padrões para workflows complexos no n8n  
-- Integração de IA (OpenAI, LangChain) em fluxos de atendimento
+- Integração de IA (OpenAI, LangChain) em fluxos de atendimento  
 - Machine Learning com Python (TensorFlow e PyTorch)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GutoArruda123-git&show_icons=true&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GutoArruda123-git&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GutoArruda123-git&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutoArruda123-git&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📬 Como entrar em contato
 
 - **GitHub:** [@GutoArruda123-git](https://github.com/GutoArruda123-git)
-- **LinkedIn:** [Seu LinkedIn aqui] *(se tiver)*
-- **Email:** [seu.email@exemplo.com] *(se quiser compartilhar)*
+- *(Opcional)* **LinkedIn / Email** – você pode adicionar aqui depois
 
 ---
 
-⭐ **Se gostou dos meus projetos, deixa uma estrela nos repositórios!**
+⭐ **Se curtiu meus projetos, deixa uma estrela nos repositórios!**
