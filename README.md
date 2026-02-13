@@ -105,8 +105,7 @@ Sistema de agendamento automatizado via WhatsApp:
 ## 📬 Como entrar em contato
 
 - **GitHub:** [@GutoArruda123-git](https://github.com/GutoArruda123-git)
-- *(Opcional)* **LinkedIn / Email** – você pode adicionar aqui depois
-
+- **Email** – carlosaugustoficial15@gmail.com
 ---
 
 ⭐ **Se curtiu meus projetos, deixa uma estrela nos repositórios!**
